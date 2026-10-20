@@ -1,0 +1,6 @@
+{
+  "name": "LazyFlow AI — Work Less, Live More",
+  "description": "Open-source AI productivity workspace for Hacktoberfest. Summarize text, extract actionable task lists, organize messy notes, polish emails, and plan daily schedules with open-weight intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
